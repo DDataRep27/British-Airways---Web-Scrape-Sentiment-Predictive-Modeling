@@ -7,5 +7,4 @@
 
 ### Task 2
 **Predicting customer buying behaviour.**
-
 **Build a predictive model to understand factors that influence buying behaviour.**
